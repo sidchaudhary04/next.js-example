@@ -5,15 +5,6 @@ export default function IndexPage() {
 	<head>
     <noscript>
         <style type="text/css">
-            [data-aos] {
-                opacity: 1 !important;
-                transform: translate(0) scale(1) !important;
-            }
-            nav{
-            opacity:1 !important;
-            z-index: 100 !important;
-            }
-            
         </style>
     </noscript>
 </head>

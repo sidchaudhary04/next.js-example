@@ -2,8 +2,7 @@ import Link from 'next/link'
 
 export default function IndexPage() {
   return (
-    <iDOCTYPE html>
-<head>
+	<head>
     <noscript>
         <style type="text/css">
             [data-aos] {
